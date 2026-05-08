@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on cool HW/SW products with my embedded system capabilities.
 - 📫 How to reach me . You can use me almost every platform with the username @ufuksfk
 - 🌐 And you can read my second brain via -> https://notes.ufuksfk.com/
-- 📃 And also, some blogging efforts -> https://ufuksnotes.com/
+- 📃 And also, some blogging efforts -> https://blog.ufuksfk.com/
 
 <!---
 ufuksfk/ufuksfk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
